@@ -1,0 +1,28 @@
+body {
+	background-color: #E7E7E7;
+}
+h1 {
+	font-size: 45px;
+}
+input {
+	width: 500px;
+    height: 70px;
+    padding-left: 15px;
+}
+        /*remove border yellow when click input */
+input:focus { border: none; outline: none; }
+        
+.mybtn {
+	padding-top: 20px;
+}
+        
+img {
+	height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+        
+a:link { text-decoration: none }
+a {
+	color: #2dc464;
+}
